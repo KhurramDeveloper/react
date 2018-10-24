@@ -1,6 +1,6 @@
-##Bailomestry
+### Bailomestry
 
--This project is website for a blogger usr website using react.
+-- This project is website for a blogger usr website using react.
 
 ````
 int a = 5;
